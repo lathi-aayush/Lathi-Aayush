@@ -1,8 +1,21 @@
-## Hi there 👋
+## Namaste ! 👋
+
+<style>
+  h2 {
+    color: #2c3e50;
+    font-family: Arial, sans-serif;
+  }
+  ul {
+    list-style-type: square;
+  }
+</style>
+
+- I am a student of **Computer Engineering**.
+- I love **Logic & Programming** from the bottom of my CPU.  
+- I find joy in the art of creation, whether it's crafting a meaningful quote or writing elegant code.
+
 
 <!--
-**lathi-aayush/Lathi-Aayush** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...
